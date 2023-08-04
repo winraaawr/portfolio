@@ -34,14 +34,15 @@
                         </span>
                         <div class="flex flex-wrap my-4">
                             <span
+                                class="text-emerald-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-emerald-500 rounded-md">Nuxt</span>
+                            <span
                                 class="text-emerald-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-emerald-500 rounded-md">Angular</span>
                             <span
                                 class="text-emerald-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-emerald-500 rounded-md">Svelte</span>
                             <span
-                                class="text-emerald-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-emerald-500 rounded-md">Material
-                                UI</span>
-                            <span
                                 class="text-emerald-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-emerald-500 rounded-md">Python</span>
+                                <span
+                                class="text-emerald-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-emerald-500 rounded-md">Firebase</span>
                         </div>
                     </div>
                     <div class="mt-4">
