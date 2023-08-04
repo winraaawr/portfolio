@@ -93,10 +93,11 @@
                     <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Javascript</span>
                     <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Vue 3</span>
                     <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Tailwindcss</span>
+                    <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Pinia</span>
                 </div>
                 <h6 class="text-body text-sm mb-2">Description</h6>
                 <span class="mb-6 md:mr-8 text-body leading-6 text-sm">
-                    A collection of front-end landing pages design where I showcase my ability and skill to develop responsive web pages.
+                    A to-do list application (teaching developers since xxxx i dunno) to test daisyUI (a tailwindcss plugin).
                     <br>
                 </span>
                 <div class="flex">
