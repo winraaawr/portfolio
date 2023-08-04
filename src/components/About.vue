@@ -30,7 +30,7 @@
                                 class="text-rose-500 text-sm mb-2 mr-2 px-2 py-0.5 border-2 border-rose-500 rounded-md ">Tailwindcss</span>
                         </div>
                         <span class="mt-4">
-                            But, i'm still open to learn and has interest to use other technologies, especially:
+                            But, I'm open to learn, upskill, expand my knowledge. Currently I am interested the following technologies, especially:
                         </span>
                         <div class="flex flex-wrap my-4">
                             <span
