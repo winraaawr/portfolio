@@ -1,7 +1,30 @@
 <template>
     <div id="projects" class="container flex flex-col py-16 my-16 h-auto md:min-h-[60vh] w-full">
         <h1 class="text-display font-bold text-3xl text-white">Projects</h1>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 my-2">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-2">
+
+            <div class="flex flex-col w-full py-4 text-white">
+                <span class="flex flex-row items-center justify-center mb-4 h-48 w-full bg-gray-800 rounded-md">
+                    <img src="../assets/at-front-logo.png" class="h-24 w-auto object-cover object-center" alt="AniFox Logo">
+                </span>
+                <h2 class="text-display font-bold text-lg">todooo App</h2>
+                <h3 class="text-display text-rose-500 text-base mb-4">Mini Personal Project</h3>
+                <div class="flex flex-wrap mb-4">
+                    <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">daisyUI</span>
+                    <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Javascript</span>
+                    <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Vue 3</span>
+                    <span class="text-xs border-2 border-rose-500 rounded-md mr-2 mb-2 px-2 py-1">Tailwindcss</span>
+                </div>
+                <h6 class="text-body text-sm mb-2">Description</h6>
+                <span class="mb-6 md:mr-8 text-body leading-6 text-sm">
+                    A collection of front-end landing pages design where I showcase my ability and skill to develop responsive web pages.
+                    <br>
+                </span>
+                <div class="flex">
+                    <a class="text-display bg-rose-500 py-2 px-3 text-xs rounded-md hover:bg-rose-600 hover:shadow-md transition-all ease-in-out"
+                        href="https://todooo.pages.dev/" target="_blank">View Project</a>
+                </div>
+            </div>
 
             <div class="flex flex-col w-full py-4 text-white">
                 <span class="flex flex-row items-center justify-center mb-4 h-48 w-full bg-gray-800 rounded-md">
@@ -45,7 +68,7 @@
                 </span>
                 <div class="flex">
                     <a class="text-display bg-rose-500 py-2 px-3 text-xs rounded-md hover:bg-rose-600 hover:shadow-md transition-all ease-in-out"
-                        href="https://winraaawr.github.io/anifox/" target_blank>View Project</a>
+                        href="https://winraaawr.github.io/anifox/" target="_blank">View Project</a>
                 </div>
             </div>
 
