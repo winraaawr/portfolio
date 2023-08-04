@@ -18,7 +18,7 @@
                 </div>
                 <h6 class="text-body text-sm mb-2">Description</h6>
                 <span class="mb-6 md:mr-8 text-body leading-6 text-sm">
-                    AniFox is a website that made it easy for people who love anime to find new shows. It used a tool called the Jikan API, which collects data from a website called MyAnimeList.net. The website was designed to be easy to use. People could easily search for lots of different anime shows and find ones they might like. It also showed the best and most popular shows on its main page to help users discover new favorites.
+                    AniFox is a web application that made it easy for people who love and exploring animes to find new shows. It powered by Jikan API, the unofficial MyAnimeList.net API. The web application was designed to be user-friendly and intuitive to use. People could search for different anime shows and find ones they might like to watch. It also shows the top rated, top airing, and most popular to help users discover new favorites.
                     <br>
                 </span>
                 <div class="flex">
